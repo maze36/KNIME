@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="table_meta_info">
+<entry key="table_ID" type="xint" value="694261"/>
+<entry key="table_type" type="xstring" value="concatenate_table"/>
+<config key="table_references">
+<entry key="array-size" type="xint" value="32"/>
+<entry key="0" type="xstring" value="r0"/>
+<entry key="1" type="xstring" value="r1"/>
+<entry key="2" type="xstring" value="r2"/>
+<entry key="3" type="xstring" value="r3"/>
+<entry key="4" type="xstring" value="r4"/>
+<entry key="5" type="xstring" value="r5"/>
+<entry key="6" type="xstring" value="r6"/>
+<entry key="7" type="xstring" value="r7"/>
+<entry key="8" type="xstring" value="r8"/>
+<entry key="9" type="xstring" value="r9"/>
+<entry key="10" type="xstring" value="r10"/>
+<entry key="11" type="xstring" value="r11"/>
+<entry key="12" type="xstring" value="r12"/>
+<entry key="13" type="xstring" value="r13"/>
+<entry key="14" type="xstring" value="r14"/>
+<entry key="15" type="xstring" value="r15"/>
+<entry key="16" type="xstring" value="r16"/>
+<entry key="17" type="xstring" value="r17"/>
+<entry key="18" type="xstring" value="r18"/>
+<entry key="19" type="xstring" value="r19"/>
+<entry key="20" type="xstring" value="r20"/>
+<entry key="21" type="xstring" value="r21"/>
+<entry key="22" type="xstring" value="r22"/>
+<entry key="23" type="xstring" value="r23"/>
+<entry key="24" type="xstring" value="r24"/>
+<entry key="25" type="xstring" value="r25"/>
+<entry key="26" type="xstring" value="r26"/>
+<entry key="27" type="xstring" value="r27"/>
+<entry key="28" type="xstring" value="r28"/>
+<entry key="29" type="xstring" value="r29"/>
+<entry key="30" type="xstring" value="r30"/>
+<entry key="31" type="xstring" value="r31"/>
+</config>
+<config key="meta_internal">
+<config key="table_reference_IDS">
+<entry key="array-size" type="xint" value="32"/>
+<entry key="0" type="xint" value="694198"/>
+<entry key="1" type="xint" value="694200"/>
+<entry key="2" type="xint" value="694202"/>
+<entry key="3" type="xint" value="694204"/>
+<entry key="4" type="xint" value="694207"/>
+<entry key="5" type="xint" value="694209"/>
+<entry key="6" type="xint" value="694211"/>
+<entry key="7" type="xint" value="694213"/>
+<entry key="8" type="xint" value="694214"/>
+<entry key="9" type="xint" value="694217"/>
+<entry key="10" type="xint" value="694219"/>
+<entry key="11" type="xint" value="694221"/>
+<entry key="12" type="xint" value="694223"/>
+<entry key="13" type="xint" value="694225"/>
+<entry key="14" type="xint" value="694227"/>
+<entry key="15" type="xint" value="694229"/>
+<entry key="16" type="xint" value="694231"/>
+<entry key="17" type="xint" value="694233"/>
+<entry key="18" type="xint" value="694235"/>
+<entry key="19" type="xint" value="694237"/>
+<entry key="20" type="xint" value="694239"/>
+<entry key="21" type="xint" value="694241"/>
+<entry key="22" type="xint" value="694243"/>
+<entry key="23" type="xint" value="694245"/>
+<entry key="24" type="xint" value="694247"/>
+<entry key="25" type="xint" value="694249"/>
+<entry key="26" type="xint" value="694251"/>
+<entry key="27" type="xint" value="694253"/>
+<entry key="28" type="xint" value="694255"/>
+<entry key="29" type="xint" value="694257"/>
+<entry key="30" type="xint" value="694259"/>
+<entry key="31" type="xint" value="694260"/>
+</config>
+<entry key="table_rowcount" type="xint" value="87"/>
+<entry key="duplicate_row_key_suffix" type="xstring" isnull="true" value=""/>
+</config>
+<entry key="table_file_name" type="xstring" isnull="true" value=""/>
+</config>

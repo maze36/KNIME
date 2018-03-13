@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="kMeans">
+<entry key="dimensions" type="xint" value="15"/>
+<entry key="ignoredColumns" type="xint" value="13"/>
+<config key="clusterCoverage">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xint" value="11194"/>
+</config>
+<config key="kMeansCluster0">
+<entry key="array-size" type="xint" value="2"/>
+<entry key="0" type="xdouble" value="53.559921869112685"/>
+<entry key="1" type="xdouble" value="8.16793973553974"/>
+</config>
+<config key="FeatureNames">
+<entry key="array-size" type="xint" value="15"/>
+<entry key="0" type="xstring" value="lat"/>
+<entry key="1" type="xstring" value="lon"/>
+<entry key="2" type="xstring" isnull="true" value=""/>
+<entry key="3" type="xstring" isnull="true" value=""/>
+<entry key="4" type="xstring" isnull="true" value=""/>
+<entry key="5" type="xstring" isnull="true" value=""/>
+<entry key="6" type="xstring" isnull="true" value=""/>
+<entry key="7" type="xstring" isnull="true" value=""/>
+<entry key="8" type="xstring" isnull="true" value=""/>
+<entry key="9" type="xstring" isnull="true" value=""/>
+<entry key="10" type="xstring" isnull="true" value=""/>
+<entry key="11" type="xstring" isnull="true" value=""/>
+<entry key="12" type="xstring" isnull="true" value=""/>
+<entry key="13" type="xstring" isnull="true" value=""/>
+<entry key="14" type="xstring" isnull="true" value=""/>
+</config>
+</config>

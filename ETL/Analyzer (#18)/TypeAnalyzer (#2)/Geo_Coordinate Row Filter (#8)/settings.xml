@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+<entry key="node_file" type="xstring" value="settings.xml"/>
+<config key="flow_stack"/>
+<config key="internal_node_subsettings">
+<entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+</config>
+<config key="model">
+<config key="polygon_selection_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_geopolygon"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<config key="polygon_selection_lonpoints">
+<entry key="array-size" type="xint" value="7"/>
+<entry key="0" type="xdouble" value="8.100357055664062"/>
+<entry key="1" type="xdouble" value="8.084392547607422"/>
+<entry key="2" type="xdouble" value="8.10018539428711"/>
+<entry key="3" type="xdouble" value="8.111515045166016"/>
+<entry key="4" type="xdouble" value="8.119754791259766"/>
+<entry key="5" type="xdouble" value="8.123016357421875"/>
+<entry key="6" type="xdouble" value="8.122673034667969"/>
+</config>
+<config key="polygon_selection_latpoints">
+<entry key="array-size" type="xint" value="7"/>
+<entry key="0" type="xdouble" value="53.63099985700741"/>
+<entry key="1" type="xdouble" value="53.647894000835564"/>
+<entry key="2" type="xdouble" value="53.650641203756244"/>
+<entry key="3" type="xdouble" value="53.65003072968618"/>
+<entry key="4" type="xdouble" value="53.64300964258231"/>
+<entry key="5" type="xdouble" value="53.63588560604621"/>
+<entry key="6" type="xdouble" value="53.6315088155973"/>
+</config>
+<config key="exclude_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="exclude" type="xboolean" value="false"/>
+<config key="lat_column_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="lat_column" type="xstring" value="lat"/>
+<config key="lon_column_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="lon_column" type="xstring" value="lon"/>
+</config>
+<entry key="customDescription" type="xstring" isnull="true" value=""/>
+<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="factory" type="xstring" value="org.knime.ext.osm.node.rowfilter.GeoRowFilterNodeFactory"/>
+<entry key="node-name" type="xstring" value="Geo-Coordinate Row Filter"/>
+<entry key="node-bundle-name" type="xstring" value="KNIME Open Street Map Views Integration"/>
+<entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.ext.osm"/>
+<entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
+<entry key="node-bundle-version" type="xstring" value="3.3.0.v201612012034"/>
+<entry key="node-feature-name" type="xstring" value="KNIME Open Street Map Integration"/>
+<entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.ext.osm.feature.group"/>
+<entry key="node-feature-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
+<entry key="node-feature-version" type="xstring" value="3.3.0.v201612012034"/>
+<config key="factory_settings"/>
+<entry key="name" type="xstring" value="Geo-Coordinate Row Filter"/>
+<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="isInactive" type="xboolean" value="false"/>
+<config key="ports">
+<config key="port_1">
+<entry key="index" type="xint" value="1"/>
+<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+<entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 9208, Cols: 15"/>
+<entry key="port_dir_location" type="xstring" value="port_1"/>
+</config>
+</config>
+<config key="filestores">
+<entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" value="fda4662b-05be-4727-8cb6-82ea29aa5b20"/>
+</config>
+</config>
